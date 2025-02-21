@@ -1,0 +1,248 @@
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\scripts\utms\latest.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Host+Grotesk:wght@300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PubnOzhY.ttf
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\s\hostgrotesk\v4\co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PubnOzhY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PudXOzhY.ttf
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\s\hostgrotesk\v4\co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PudXOzhY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuefOzhY.ttf
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\s\hostgrotesk\v4\co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuefOzhY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuQDJzhY.ttf
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\s\hostgrotesk\v4\co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuQDJzhY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuTnJzhY.ttf
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\s\hostgrotesk\v4\co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuTnJzhY.ttf
+Content Type: font/ttf
+
+Uri: https://images.converteai.net/1fb21d75-5ccd-4d69-8903-25608648d696/players/673d7e1627cdd9000bc897c4/thumbnail.jpg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\1fb21d75-5ccd-4d69-8903-25608648d696\players\673d7e1627cdd9000bc897c4\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://vsl.kettysatofit.com/
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\index.htm
+Content Type: text/html
+
+Uri: https://vsl.kettysatofit.com/assets/ClashDisplay-Bold.otf
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\assets\ClashDisplay-Bold.otf
+Content Type: font/otf
+
+Uri: https://vsl.kettysatofit.com/assets/ClashDisplay-Light.otf
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\assets\ClashDisplay-Light.otf
+Content Type: font/otf
+
+Uri: https://vsl.kettysatofit.com/assets/ClashDisplay-Medium.otf
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\assets\ClashDisplay-Medium.otf
+Content Type: font/otf
+
+Uri: https://vsl.kettysatofit.com/assets/ClashDisplay-Regular.otf
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\assets\ClashDisplay-Regular.otf
+Content Type: font/otf
+
+Uri: https://vsl.kettysatofit.com/assets/ClashDisplay-Semibold.otf
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\assets\ClashDisplay-Semibold.otf
+Content Type: font/otf
+
+Uri: https://vsl.kettysatofit.com/assets/TuskerGrotesk-2500Medium.ttf
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\assets\TuskerGrotesk-2500Medium.ttf
+Content Type: font/ttf
+
+Uri: https://vsl.kettysatofit.com/assets/TuskerGrotesk-5700Bold.ttf
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\assets\TuskerGrotesk-5700Bold.ttf
+Content Type: font/ttf
+
+Uri: https://vsl.kettysatofit.com/Images/ÍCONE (1).svg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\ÍCONE (1).svg
+Content Type: image/svg+xml
+
+Uri: https://vsl.kettysatofit.com/Images/ÍCONE (2).svg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\ÍCONE (2).svg
+Content Type: image/svg+xml
+
+Uri: https://vsl.kettysatofit.com/Images/ÍCONE.svg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\ÍCONE.svg
+Content Type: image/svg+xml
+
+Uri: https://vsl.kettysatofit.com/Images/banner1.svg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\banner1.svg
+Content Type: image/svg+xml
+
+Uri: https://vsl.kettysatofit.com/Images/banner16.svg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\banner16.svg
+Content Type: image/svg+xml
+
+Uri: https://vsl.kettysatofit.com/Images/bannerKmobile.svg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\bannerKmobile.svg
+Content Type: image/svg+xml
+
+Uri: https://vsl.kettysatofit.com/Images/button.png
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\button.png
+Content Type: image/png
+
+Uri: https://vsl.kettysatofit.com/Images/cell.svg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\cell.svg
+Content Type: image/svg+xml
+
+Uri: https://vsl.kettysatofit.com/Images/favicon.ico
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://vsl.kettysatofit.com/Images/fa_question.svg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\fa_question.svg
+Content Type: image/svg+xml
+
+Uri: https://vsl.kettysatofit.com/Images/fita1.svg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\fita1.svg
+Content Type: image/svg+xml
+
+Uri: https://vsl.kettysatofit.com/Images/fita2.svg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\fita2.svg
+Content Type: image/svg+xml
+
+Uri: https://vsl.kettysatofit.com/Images/fluent_people-community-add-24-filled.png
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\fluent_people-community-add-24-filled.png
+Content Type: image/png
+
+Uri: https://vsl.kettysatofit.com/Images/foundation_flag.png
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\foundation_flag.png
+Content Type: image/png
+
+Uri: https://vsl.kettysatofit.com/Images/icon-park-solid_muscle.svg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\icon-park-solid_muscle.svg
+Content Type: image/svg+xml
+
+Uri: https://vsl.kettysatofit.com/Images/icon-park_waistline.png
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\icon-park_waistline.png
+Content Type: image/png
+
+Uri: https://vsl.kettysatofit.com/Images/icon.png
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\icon.png
+Content Type: image/png
+
+Uri: https://vsl.kettysatofit.com/Images/kethmobile.svg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\kethmobile.svg
+Content Type: image/svg+xml
+
+Uri: https://vsl.kettysatofit.com/Images/Ketty Sato - 7 Dias de Garantia 1.png
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\Ketty Sato - 7 Dias de Garantia 1.png
+Content Type: image/png
+
+Uri: https://vsl.kettysatofit.com/Images/kety.svg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\kety.svg
+Content Type: image/svg+xml
+
+Uri: https://vsl.kettysatofit.com/Images/LOgo.png
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\LOgo.png
+Content Type: image/png
+
+Uri: https://vsl.kettysatofit.com/Images/lsicon_time-one-filled.png
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\lsicon_time-one-filled.png
+Content Type: image/png
+
+Uri: https://vsl.kettysatofit.com/Images/mingcute_check-2-fill.png
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\mingcute_check-2-fill.png
+Content Type: image/png
+
+Uri: https://vsl.kettysatofit.com/Images/PARTE-10-MOBILE.jpg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\PARTE-10-MOBILE.jpg
+Content Type: image/jpeg
+
+Uri: https://vsl.kettysatofit.com/Images/Parte-10.webp
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\Parte-10.webp
+Content Type: image/webp
+
+Uri: https://vsl.kettysatofit.com/Images/PARTE-12-MOBILE.jpg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\PARTE-12-MOBILE.jpg
+Content Type: image/jpeg
+
+Uri: https://vsl.kettysatofit.com/Images/Parte-12.webp
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\Parte-12.webp
+Content Type: image/webp
+
+Uri: https://vsl.kettysatofit.com/Images/Parte-13.webp
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\Parte-13.webp
+Content Type: image/webp
+
+Uri: https://vsl.kettysatofit.com/Images/PARTE-14-MOBILE.jpg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\PARTE-14-MOBILE.jpg
+Content Type: image/jpeg
+
+Uri: https://vsl.kettysatofit.com/Images/Parte-14.webp
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\Parte-14.webp
+Content Type: image/webp
+
+Uri: https://vsl.kettysatofit.com/Images/PARTE-17-MOBILE.jpg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\PARTE-17-MOBILE.jpg
+Content Type: image/jpeg
+
+Uri: https://vsl.kettysatofit.com/Images/Parte-17.webp
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\Parte-17.webp
+Content Type: image/webp
+
+Uri: https://vsl.kettysatofit.com/Images/pcfit.png
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\pcfit.png
+Content Type: image/png
+
+Uri: https://vsl.kettysatofit.com/Images/prova 5.jpg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\prova 5.jpg
+Content Type: image/jpeg
+
+Uri: https://vsl.kettysatofit.com/Images/prova 6.jpg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\prova 6.jpg
+Content Type: image/jpeg
+
+Uri: https://vsl.kettysatofit.com/Images/prova 7.jpg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\prova 7.jpg
+Content Type: image/jpeg
+
+Uri: https://vsl.kettysatofit.com/Images/prova 9.jpg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\prova 9.jpg
+Content Type: image/jpeg
+
+Uri: https://vsl.kettysatofit.com/Images/quem-sou-mobile.svg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\quem-sou-mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://vsl.kettysatofit.com/Images/quemeusou.png
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\quemeusou.png
+Content Type: image/png
+
+Uri: https://vsl.kettysatofit.com/Images/section16mobile.svg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\section16mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://vsl.kettysatofit.com/Images/sellphonemobile.svg
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\sellphonemobile.svg
+Content Type: image/svg+xml
+
+Uri: https://vsl.kettysatofit.com/Images/streamline_customer-support-1-solid.png
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\Images\streamline_customer-support-1-solid.png
+Content Type: image/png
+
+Uri: https://vsl.kettysatofit.com/script.js
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\script.js
+Content Type: application/javascript
+
+Uri: https://vsl.kettysatofit.com/styles.css
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\styles.css
+Content Type: text/css
+
+Uri: https://vsl.kettysatofit.com/swiper-init.js
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\swiper-init.js
+Content Type: application/javascript
+
+Uri: https://www.facebook.com/tr?id=920829775761130&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\vsl.kettysatofit.com\tr
+Content Type: text/plain
+

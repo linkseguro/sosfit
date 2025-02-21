@@ -1,0 +1,35 @@
+﻿@font-face {
+  font-family: 'Host Grotesk';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PubnOzhY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Host Grotesk';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuefOzhY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Host Grotesk';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PudXOzhY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Host Grotesk';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuTnJzhY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Host Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/hostgrotesk/v4/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuQDJzhY.ttf) format('truetype');
+}
